@@ -1,8 +1,6 @@
 from flask import Flask, request, json
 from router.otakudesu import otaku
 
-import scrapetube
-
 app = Flask(__name__)
 
 @app.route("/")
