@@ -1,0 +1,1 @@
+OTAKUDESU_LINK = "https://otakudesu.vip"
